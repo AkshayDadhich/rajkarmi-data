@@ -4,5 +4,12 @@
     "years": [
       2026
     ]
+  },
+  "da": {
+    "version": 1,
+    "history": [
+      { "from": "2025-07-01", "percent": 58 },
+      { "from": "2026-01-01", "percent": 60 }
+    ]
   }
 }
